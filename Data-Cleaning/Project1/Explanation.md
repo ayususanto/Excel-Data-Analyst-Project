@@ -77,5 +77,14 @@ We can see on the table that there are  many empty cells on peak & all the time 
 5. **Removing Duplicate**  
    The duplicate is happened on rank column which is based on actual gross column. So I sorted the column in descading order then add index column.
 
+❓ Why Power Query?  
+Even though the dataset is small (21 rows), I used Power Query to:
+- Practice cleaning logic using a visual and structured tool
+- Build a repeatable and scalable transformation workflow
+- Show capability to automate tedious cleaning steps, especially useful in real-world scenarios with larger datasets
+
+✅ Result:  
+A clean, structured dataset ready for analysis or visualization.
+
      
    
